@@ -1,0 +1,31 @@
+header{
+    background-color: #E6E6E6;
+    margin:0;
+    text-align: center;
+}
+.titulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 5px;
+    text-align: center;
+}
+h3{
+    background-color: #C4C4C4;
+    color: #005677;  
+    letter-spacing: 4px;
+}
+.subtitulo-datos {
+    font-weight: bold;
+    font-style: italic;
+}
+.subtitulo-fechas {
+    font-weight: bold;
+}
+.margen{
+    margin-left: 80px;
+}
+footer{
+    background-color: #005677;
+    color:white;
+    text-align: center;
+}
